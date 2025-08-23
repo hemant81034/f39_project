@@ -349,3 +349,30 @@ a{
     width:400px;
     background-color:white;
 }
+
+/* About Us */
+
+.my_about{
+    width:100%;
+    background-color:rgb(24, 19, 19);
+    padding:25px;
+    display:flex;
+    flex-direction:column;
+    gap:25px;
+}
+.my_about_us{
+    width:100%;
+    background-color: rgb(37, 33, 33);
+}
+.my_about_dropdown{
+    width:100%;
+    background-color:rgb(24, 19, 19);
+    display:flex;
+    gap:25px;
+}
+.my_about_dropdown_l{
+    width:50%;
+}
+.my_about_dropdown_r{
+    width:50%;
+}
