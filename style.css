@@ -199,31 +199,19 @@ a{
 .home_section_left_t{
     width:100%;
     height:40%;
-    display:flex;
     border-radius:10px;
     background-color: rgb(37, 33, 33);
 
 }
-.home_section_left_t_l{
-    width:50%;
-    height:100%;
-    background-color:green;
-    padding:10px;
-}
-.home_section_left_t_r{
-    width:50%;
-    height:100%;
-    background-color:rgb(22, 75, 22);
-}
 .home_section_left_b{
      width:100%;
     height:60%;
-    background-color:yellow;
+    background-color: rgb(37, 33, 33);
 }
 .home_section_right{
     width:35%;
     height:100%;
-    background-color: brown;
+    
 }
 
 /* Courses */
@@ -363,16 +351,4 @@ a{
 .my_about_us{
     width:100%;
     background-color: rgb(37, 33, 33);
-}
-.my_about_dropdown{
-    width:100%;
-    background-color:rgb(24, 19, 19);
-    display:flex;
-    gap:25px;
-}
-.my_about_dropdown_l{
-    width:50%;
-}
-.my_about_dropdown_r{
-    width:50%;
 }
